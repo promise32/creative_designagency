@@ -1,1 +1,1 @@
-# creative_designagency
+The is is a simple website designed by Promise Emoghene for a Pet company. The ideal mptivation behind the project is to enable owners of dogs locate other other dogs in the area where they leave for collaboration and friendship. 
